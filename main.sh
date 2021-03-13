@@ -4,7 +4,6 @@
 source menuoptions.sh
 source webserver.sh
 source virtualhost.sh
-source auth.sh
 source authvirtualhost.sh
 #call of main menu function that call all functions of Script
 menu
